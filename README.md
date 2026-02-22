@@ -1,95 +1,80 @@
 <div align="center">
 
-#  Nihar Mehta  
+# Nihar Mehta  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Full+Stack+Developer;Problem+Solver;DSA+%7C+Competitive+Programming;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver;DSA+%7C+Competitive+Programming;Building+Scalable+Systems" />
 
 </div>
 
 ---
 
-##  About Me  
+## About Me  
 
 🎓 B.Tech CSE @ Sardar Vallabhbhai National Institute of Technology  
 📍 Ahmedabad, India  
 
-I am deeply interested in **problem solving, data structures & algorithms, competitive programming, and hackathons.**  
+I am deeply interested in **Data Structures & Algorithms, Competitive Programming, and Hackathons.**  
 
-I enjoy breaking down complex systems, optimizing solutions, and building architectures that are both efficient and scalable.  
-Whether it's DSA, real-time systems, or AI-powered platforms — I build with clarity and intent.
+I enjoy solving complex problems, optimizing solutions, and designing systems that are efficient, scalable, and logically sound.  
+Strong focus on algorithmic thinking and writing clean, performance-oriented code.
 
 ---
 
-#  Core Interests  
+# Core Interests  
 
 • Data Structures & Algorithms  
 • Competitive Programming  
-• Hackathons & Rapid Prototyping  
-• System Design  
-• AI-driven Applications  
+• Hackathons  
+• Backend & System Design  
+• Performance Optimization  
 
 ---
 
-#  Tech Stack  
+# Tech Stack  
 
-###  Languages  
+### Languages  
 `C++` `C` `Python` `JavaScript`
 
-###  Full Stack  
+### Full Stack  
 `React` `Next.js` `Node.js` `Express` `MongoDB` `MySQL`
 
-###  AI / ML  
-`Scikit-learn` `XGBoost` `LightGBM` `Pandas` `NumPy`
+### Tools  
+`Git` `GitHub` `VS Code` `Postman`
 
 ---
 
-#  GitHub Analytics  
+# Competitive Programming  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nkmehta216&show_icons=true&theme=transparent&title_color=58A6FF&text_color=9f9f9f&icon_color=58A6FF&border_color=30363D" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nkmehta216&theme=dark&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=30363D" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkmehta216&layout=compact&theme=transparent&title_color=58A6FF&text_color=9f9f9f&border_color=30363D"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/niharmehta216/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/centurymanof)  
 
 </div>
 
----
-
-#  Competitive Programming  
-
-• LeetCode  
-• Codeforces  
-• CodeChef  
-
-Consistently practicing algorithmic thinking and contest-based problem solving.
+Actively practicing contest-based problem solving and strengthening algorithmic depth.
 
 ---
 
-#  Featured Systems  
+# Selected Projects  
 
-##  Rabuste Café  
+## Rabuste Café  
 AI-powered immersive commerce ecosystem  
 
-##  SnowMore  
+## SnowMore  
 Hybrid algorithmic trading engine  
 
-##  NOIRÉ  
+## NOIRÉ  
 Monochrome fashion tech platform  
 
 ---
 
-#  Current Focus  
+# Current Focus  
 
 • Advanced DSA mastery  
-• Writing cleaner, faster solutions  
-• Participating in contests & hackathons  
-• Designing scalable back-end systems  
+• Competitive contests & hackathons  
+• Writing efficient backend systems  
+• Strengthening system design fundamentals  
 
 ---
 
