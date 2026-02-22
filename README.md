@@ -58,14 +58,35 @@ Actively practicing contest-based problem solving and strengthening algorithmic 
 
 # Selected Projects  
 
-## Rabuste Café  
-AI-powered immersive commerce ecosystem  
+## ☕ Rabuste Café  
+A full-stack immersive commerce platform built for a premium Robusta coffee brand.  
 
-## SnowMore  
-Hybrid algorithmic trading engine  
+• Designed and developed a scalable MERN architecture integrating ecommerce, workshops, and digital experiences  
+• Built an AI-driven personalization and recommendation system  
+• Implemented secure authentication, protected routes, and role-based admin control  
+• Integrated payment gateway and database-driven analytics  
+• Focused on clean UI/UX and performance optimization  
 
-## NOIRÉ  
-Monochrome fashion tech platform  
+---
+
+## 📊 SnowMore  
+A hybrid algorithmic trading engine combining rule-based strategies with machine learning models.  
+
+• Implemented technical strategies including RSI, EMA, VWAP, and momentum-based signals  
+• Designed a modular signal fusion architecture integrating ML confirmation layers  
+• Built backtesting and paper trading systems with risk management controls  
+• Focused on realistic transaction modeling and performance analytics  
+• Developed time-aware training pipelines to reduce overfitting  
+
+---
+
+## 🖤 NOIRÉ  
+A monochrome fashion technology platform combining accessibility and modern web architecture.  
+
+• Built a full-stack MERN application with authentication and database integration  
+• Developed an AI-powered fashion assistant with voice interaction  
+• Designed a clean, minimal UI focused on inclusivity and accessibility  
+• Structured scalable backend APIs for user and product management  
 
 ---
 
